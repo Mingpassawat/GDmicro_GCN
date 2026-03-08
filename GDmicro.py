@@ -1245,7 +1245,7 @@ def main():
     else:
         bsize=int(bsize)
     if not rfi:
-        rfi=1
+        rfi=0
     else:
         rfi=int(rfi)
     if not anode:
